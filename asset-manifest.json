@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/From-Scratch_Projet_React-1_Countries/static/css/main.a87b650f.css",
+    "main.js": "/From-Scratch_Projet_React-1_Countries/static/js/main.f688903f.js",
+    "index.html": "/From-Scratch_Projet_React-1_Countries/index.html",
+    "main.a87b650f.css.map": "/From-Scratch_Projet_React-1_Countries/static/css/main.a87b650f.css.map",
+    "main.f688903f.js.map": "/From-Scratch_Projet_React-1_Countries/static/js/main.f688903f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a87b650f.css",
+    "static/js/main.f688903f.js"
+  ]
+}
